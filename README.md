@@ -1,5 +1,7 @@
 # EMInstrumentation
-Welcome to the public repository for the EMInstrumentation project. This repo is not intended to host the code for the project but rather to serve as a centralized space to share news and updates and to capture user feedback in issues that need to be resolved. 
+Welcome to the public repository for the EMInstrumentation project. This repo is not intended to host the code for the project but rather to serve as a centralized space to share news and updates and to capture user feedback in issues that need to be resolved.
+
+**The Live EMI Platform is available at [https://eminstruments.space](https://eminstruments.space?wiki)**
 
 Please report any issues using the [Issues](https://github.com/OrsikIronfist/EMInstrumentation/issues) tab above.
 
