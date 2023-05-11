@@ -9,6 +9,20 @@ You can also find the Wiki [Here](https://github.com/OrsikIronfist/EMInstrumenta
 
 ----
 ## News
+### May 11, 2023
+*by Dev in News*
+
+*v1.1.131*
+
+Okay I am happy to say we have another quick patch update that released today that includes some comfort fixes like UI updates and a now sortable security checks table so you can easily sort the data by clicking on the header of the column. We also did some behind the scenes stuff with general code optimiaziation and cleanup, fixed a few bugs, and also added a feedback from to the portal so you can quickly send me your thoughts for where I should be going with this platform and its features.
+
+**Changes**
+Sortable Security Check area
+Google Analytics Improvements
+General bug fixes and code optimization
+Portal UI improvements
+Feedback functionality
+
 ### May 9, 2023
 *by Dev in News*
 
