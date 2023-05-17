@@ -9,6 +9,18 @@ You can also find the Wiki [Here](https://github.com/OrsikIronfist/EMInstrumenta
 
 ----
 ## News
+### May 16, 2023
+*by Dev in News*
+
+*v1.2.136*
+
+Yay, another release! okay so this one is not packed full of good stuff really but was more focused on the administration and management of the platform releasing an admin portal and doing a lot of code fixes. We also were able to release our subscription service so that is now working which means We Are Open For Business! Now we are still obviously in development for the lions share of our features but anyone can now get in and play with what is released.
+
+**Changes**
+- Administrative and management portal
+- Basic subscription launched
+- Various code fixes
+
 ### May 11, 2023
 *by Dev in News*
 
